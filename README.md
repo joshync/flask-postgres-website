@@ -1,7 +1,9 @@
 # Flask-Postgres website
 The basic website of a flask application with postgres database integration.
 
-_Frequently desired for a Heroku deployment._
+## commands
+
+`pip install -r requirements`
 
 ## Quickstart
 
